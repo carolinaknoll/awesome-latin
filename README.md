@@ -4,6 +4,7 @@ Collection of awesome resources for those who want to lean Latin.
 
 ## Contents <!-- omit in toc -->
 
+- [Activities/Hobbies](#activities)
 - [Listening](#listening)
   - [Podcasts](#podcasts)
   - [Interview Podcasts](#interview-podcasts)
@@ -28,6 +29,9 @@ Collection of awesome resources for those who want to lean Latin.
 - [Answers](#answers)
 - [License](#license)
 - [Format Attribution](#format-attribution)
+
+## Activities
+- Gregorian choir/singing classes - If you're christian or interested in serving/singing, most choirs will be happy to accept new members even if you don't have vocal experience _(or don't usually sing in the shower 😉)_. Singing in latin can help with speaking correctly, being present in the moment, reading and trying to translate or searching for translations to understand the lyrics, lung capacity and breathing and expressing yourself. It also helps you get over that fear of saying latin words out loud without thinking they sound like dark magic spells. 🪄
 
 ## Listening
 
