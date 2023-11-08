@@ -49,7 +49,19 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 
 ### YouTube
 
-- No content just yet.
+- Magister Craft:
+  - <https://www.youtube.com/channel/UCTtKmPD0_Qo9Uy932ZGKFhA>
+  - <https://www.magistercraft.com/>
+- Luke Amadeus Ranieri
+  - <https://lukeranieri.com/>
+  - <https://www.youtube.com/@ScorpioMartianus>
+  - <http://www.scorpiomartianus.com/>
+  - <https://www.youtube.com/@LegioXIII>
+  - <https://www.youtube.com/@polyMATHY_Luke>
+  - Playlist for Lingua Latina per se illustrata: <https://youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV&si=8E2cc0y-rMxiJPRj>
+- Carla Hurt:
+  - <https://www.youtube.com/@FoundinAntiquity>
+  - <https://foundinantiquity.com/>
 
 ## Grammar
 
@@ -98,7 +110,26 @@ Conversation Exchange Sites are a fantastic idea and you can study latin with ot
 
 ## Reading
 
-- No content just yet.
+### Books
+
+The single-best resource in existance - if you can only peruse one, this is it:
+
+- [Hans Ørberg](https://en.wikipedia.org/wiki/Hans_%C3%98rberg),
+  Lingua Latina per se illustrata:
+
+  - publisher:
+  <https://hackettpublishing.com/lingua-latina-per-se-illustrata-series>
+
+  - Amazon:
+  <https://www.amazon.com/gp/product/1585104205/>
+
+  - audio by Luke Ranieri:
+  <https://youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV&si=8E2cc0y-rMxiJPRj>
+
+Cambridge Latin Course is also highly regarded. It moves slower and covers less
+than LLPSI, but tells a more informative story:
+
+- [Cambridge Latin Course](https://en.wikipedia.org/wiki/Cambridge_Latin_Course)
 
 ## Exercises and Tests
 
